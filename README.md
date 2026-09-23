@@ -18,6 +18,8 @@
 
 直接阅读仓库中的文档即可。后续会按主题补充条目，例如提示词、Agent 工作流、工程实践等。
 
+- [AI 面试准备工作](docs/agent-workflow-interview-questions.md)
+
 ## 如何贡献
 
 欢迎通过 [Issue](https://github.com/XiyouMobile3G-iOS/awesome-ai-tips/issues) 或 [Pull Request](https://github.com/XiyouMobile3G-iOS/awesome-ai-tips/pulls) 补充资料、修正内容。
